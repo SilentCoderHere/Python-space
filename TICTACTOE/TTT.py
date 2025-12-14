@@ -2,13 +2,13 @@ from display import design
 
 design()
 
-ans = "Y" or "y"
+ans = "y"
 
 h = "|"
 g = "---------"
 p1 = input("Enter Player 1 name = ")
 p2 = input("Enter Player 2 name = ")
-while ans == "Y" or "y":
+while ans == "y":
     lft = [1, 2, 3, 4, 5, 6, 7, 8, 9]  # for not overputting
     l = [
         " ",
@@ -111,7 +111,6 @@ while ans == "Y" or "y":
     if n not in l:
         print("Match Draw")
     print("Want to play again ? ")
-    ans = input("Type Y for Yes or N for No : ")
+    ans = input("Type Y for Yes or N for No : ").lower()
 
 print("GAME CLOSED")
-
