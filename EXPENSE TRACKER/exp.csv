@@ -1,11 +1,39 @@
 Date,Category,Description,Amount
-2025-12-01,Food,Lunch at cafe,12.50
-2025-12-01,Transport,Bus ticket,2.75
-2025-12-02,Food,Dinner at restaurant,20.00
-2025-12-02,Entertainment,Movie ticket,8.50
-2025-12-03,Transport,Taxi ride,15.00
-2025-12-03,Bills,Electricity bill,45.00
-2025-12-04,Food,Groceries,35.00
-2025-12-04,Entertainment,Concert ticket,50.00
-2025-12-05,Transport,Subway ticket,3.00
-2025-12-05,Bills,Internet bill,30.00
+2025-01-01,Groceries,Supermarket purchase,54.75
+2025-01-02,Transport,Bus pass recharge,25.00
+2025-01-03,Food,Coffee and snacks,8.50
+2025-01-03,Entertainment,Movie ticket,12.00
+2025-01-04,Utilities,Electricity bill,68.40
+2025-01-05,Groceries,Vegetables and fruits,32.10
+2025-01-06,Transport,Fuel refill,45.00
+2025-01-07,Food,Lunch at restaurant,18.75
+2025-01-08,Health,Pharmacy medicines,22.30
+2025-01-09,Shopping,Clothing purchase,89.99
+2025-01-10,Groceries,Monthly ration items,76.20
+2025-01-11,Entertainment,Streaming subscription,14.99
+2025-01-12,Food,Dinner takeout,21.50
+2025-01-13,Utilities,Internet bill,49.99
+2025-01-14,Transport,Ride-hailing service,16.80
+2025-01-15,Health,Gym membership,35.00
+2025-01-16,Groceries,Bakery items,15.60
+2025-01-17,Food,Coffee with friends,11.25
+2025-01-18,Shopping,Online accessories order,27.45
+2025-01-19,Utilities,Water bill,23.70
+2025-01-20,Food,Lunch at cafe,14.90
+2025-01-21,Transport,Fuel refill,42.00
+2025-01-22,Entertainment,Concert ticket,65.00
+2025-01-23,Groceries,Dairy products,19.85
+2025-01-24,Health,Doctor consultation,50.00
+2025-01-25,Food,Dinner delivery,24.60
+2025-01-26,Shopping,Household items,33.40
+2025-01-27,Transport,Taxi fare,18.20
+2025-01-28,Utilities,Mobile phone bill,29.99
+2025-01-29,Food,Breakfast and coffee,9.80
+2025-01-30,Groceries,Snacks and beverages,26.75
+2025-01-30,Entertainment,Video game purchase,39.99
+2025-01-31,Health,Supplements purchase,28.50
+2025-01-31,Food,Lunch at restaurant,17.95
+2025-01-31,Shopping,Gift purchase,44.00
+2025-01-31,Transport,Parking fee,6.50
+2025-01-31,Utilities,Gas bill,31.20
+2025-01-31,Groceries,End of month groceries,41.30
