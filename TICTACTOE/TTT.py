@@ -96,13 +96,14 @@ while ans == "y":
                 pos = int(input("Enter on which position you want to put your symbol : "))
             except ValueError:
                 print("\nError: Invalid input")
+                continue
             # check inputy is in range or not
             if pos in lft:
                 l[pos - 1] = c2
                 lft.remove(pos)
                 i += 1
             else:
-                if pos >= 9:
+                if pos > 9:
                     print("Please enter number from 1 to 9")
                 elif 1 <= pos <= 9:
                     print("OCCUPIED")
@@ -116,7 +117,7 @@ while ans == "y":
         check()
         if r == 0:
             print("Match Draw")
-        print("Want to play again ? ")
-        ans = input("Type Y for Yes or N for No : ")
+    print("Want to play again ? ")
+    ans = input("Type Y for Yes or N for No : ")
 print("GAME CLOSED")
 
